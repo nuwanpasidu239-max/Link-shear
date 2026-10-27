@@ -1,0 +1,10 @@
+
+{
+  "name": "link-shear",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "^13.5.0",
+    "google-auth-library": "^10.3.0"
+  }
+}
